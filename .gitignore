@@ -1,0 +1,5 @@
+models/
+env/
+.DS_Store
+.vscode/
+data/
